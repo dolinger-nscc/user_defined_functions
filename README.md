@@ -5,6 +5,14 @@
 </div>
 <br>
 <div>
+	<h1><img src="img/question.png" width="35" /> How do I keep my User Defined Functions (UDS) accessible??</h1>
+</div>
+<br>
+Explain here how you import the the .py file from your repo. 
+<div>
+
+
+<div>
 	<h1><img src="img/question.png" width="35" /> How do I reuse common code snippets?</h1>
 </div>
 <br>
