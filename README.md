@@ -10,7 +10,7 @@
 <br>
 Explain here how you import the the .py file from your repo.  
 
-[<img src="https://img.youtube.com/vi/GVItHANDYds/hqdefault.jpg" width="600" " /> ](https://www.youtube.com/embed/GVItHANDYds)
+[<img src="https://img.youtube.com/vi/GVItHANDYds/hqdefault.jpg" width="600"  /> ](https://www.youtube.com/embed/GVItHANDYds)
 
 
 <div>
