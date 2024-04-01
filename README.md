@@ -5,14 +5,14 @@
 </div>
 <br>
 <div>
-	<h1><img src="img/question.png" width="40" /> How do I reuse common code snippets?</h1>
+	<h1><img src="img/question.png" width="35" /> How do I reuse common code snippets?</h1>
 </div>
 <br>
 This repository illustrates the use of a .py file as a module for reusable code. This method was designed primarily for use with Jupyter Notebooks. Its design intent is to help students new to Data Science concepts practice their Python skills as well to implement consistent data wrangling within their workflows. The repository will consist of code snippets that utilize the udf.py file included.  
 
 Each function within the udf.py file will be explained below:  
 <div>
-	<h2><img src="img/bulb.png" width="40" /> Creating a "set-aside" dataset</h2>
+	<h2><img src="img/bulb.png" width="35" /> Creating a "set-aside" dataset</h2>
 </div>
 <br>
 You will often want to create a "set-aside" dataset to be used after creating your model. This is a good final step as this data will not have been exposed to the algorithm during the training process. This will reduce the chance of data leakage occuring prior to your final scoring of the model.  
