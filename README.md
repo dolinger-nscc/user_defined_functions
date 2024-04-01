@@ -29,5 +29,6 @@ You will often want to create a "set-aside" dataset to be used after creating yo
 
 <br>
 <br>
-The header file was created as a hack of this <a href="https://css-tricks.com/custom-styles-in-github-readmes/" target="_blank"><i>Custom Styles in Github Readme Files</i></a> article on css-tricks.com.
+The header file was created as a hack of this <a href="https://css-tricks.com/custom-styles-in-github-readmes/" target="_blank"><i>Custom Styles in Github Readme Files</i></a> article on css-tricks.com.  
+The data used for this demonstrations are thanks to Allison Horst and her <a href="https://allisonhorst.github.io/palmerpenguins/" target="_blank"><i>Palmer Penguins Dataset</i></a>. 
 
