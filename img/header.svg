@@ -1,5 +1,6 @@
 <svg fill="none" viewBox="0 0 1000 400" width="1000" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
+		<rect width="100%" height="100%" fill="silver"/>
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@keyframes rotate {
@@ -51,7 +52,7 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
-					width: 100%;
+					width: 90%;
 					height: 400px;
 					background: linear-gradient(-45deg, #4C10EF, #BC10EF, #1043EF);
 					background-size: 1000% 400%;
