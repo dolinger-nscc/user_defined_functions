@@ -26,7 +26,7 @@ response.close()
 import udf
 ```
 
-
+<br>
 Right click on the video preview and select "Open link in new tab"  
 [<img src="https://img.youtube.com/vi/48OBj6DtYSk/hqdefault.jpg" width="600"  /> ](https://www.youtube.com/embed/48OBj6DtYSk)
 
@@ -44,7 +44,7 @@ Each function within the udf.py file will be explained below:
 <br>
 You will often want to create a "set-aside" dataset to be used after creating your model. This is a good final step as this data will not have been exposed to the algorithm during the training process. This will reduce the chance of data leakage occuring prior to your final scoring of the model.  
 
-
+<br>
 Right click on the video preview and select "Open link in new tab"  
 [<img src="https://img.youtube.com/vi/lVTObDXu4QM/hqdefault.jpg" width="600"  /> ](https://www.youtube.com/embed/lVTObDXu4QM)
 
