@@ -10,10 +10,16 @@
 <br>
 Explain here how you import the the .py file from your repo.  
 
-\```
-def hello_world():
-    print("Hello, world!")
-\```
+```python
+import requests
+
+url = 'https://raw.githubusercontent.com/dolinger-nscc/user_defined_functions/main/udf.py' 
+response = requests.get(url)
+
+with open('udf.py', 'w') as file:
+    file.write(response.text)
+response.close()
+```
 
 
 Right click on the video preview and select "Open link in new tab"  
