@@ -9,7 +9,6 @@
 </div>
 <br>
 This repository illustrates the use of a .py file as a module for reusable code. 
-
 <br>
 <br>
 The header file was created as a hack of this <a href="https://css-tricks.com/custom-styles-in-github-readmes/" target="_blank"><i>Custom Styles in Github Readme Files</i></a> article on css-tricks.com.
