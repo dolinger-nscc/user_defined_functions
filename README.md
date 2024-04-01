@@ -35,7 +35,7 @@ Right click on the video preview and select "Open link in new tab"
 	<h1><img src="img/question.png" width="40" /> How do I reuse common code snippets?</h1>
 </div>
 <br>
-This repository illustrates the use of a .py file as a module for reusable code. This method was designed primarily for use with Jupyter Notebooks. Its design intent is to help students new to Data Science concepts practice their Python skills as well to implement consistent data wrangling within their workflows. The repository will consist of code snippets that utilize the udf.py file included.  
+The remainder of this repository illustrates the use of a .py file as a module for reusable code. This method was designed primarily for use with Jupyter Notebooks. Its design intent is to help students new to Data Science concepts practice their Python skills as well to implement consistent data wrangling within their workflows. The repository will consist of code snippets that utilize the udf.py file included.  
 
 Each function within the udf.py file will be explained below:  
 <div>
