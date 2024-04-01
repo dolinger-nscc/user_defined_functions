@@ -12,9 +12,6 @@ Explain here how you import the the .py file from your repo.
 
 [<img src="https://img.youtube.com/vi/GVItHANDYds/hqdefault.jpg" width="600" height="300" /> ](https://www.youtube.com/embed/GVItHANDYds)
 
-<a href="https://www.youtube.com/watch?v=GVItHANDYds" target="_blank">Link to Video</a>
-
-
 
 <div>
 	<h1><img src="img/question.png" width="35" /> How do I reuse common code snippets?</h1>
