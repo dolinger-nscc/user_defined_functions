@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 800 400" width="1000" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1000 400" width="1000" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -54,7 +54,7 @@
 					width: 100%;
 					height: 400px;
 					background: linear-gradient(-45deg, #4C10EF, #BC10EF, #1043EF);
-					background-size: 800% 400%;
+					background-size: 1000% 400%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
 					color: white;
@@ -82,8 +82,8 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>User Defined Functions</h1>
-				<p>Imported as a module</p>
+				<h1>User Defined Functions &amp; CSS<br/>for Data Wrangling</h1>
+				<p>to be imported as a module</p>
 			</div>
 		</div>
 	</foreignObject>
