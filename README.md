@@ -12,7 +12,7 @@ This repository illustrates the use of a .py file as a module for reusable code.
 
 Each function within the udf.py file will be explained below:  
 <div>
-	<h2><img src="img/lightbulb.png" width="40" /> Creating a "set-aside" dataset</h2>
+	<h2><img src="img/bulb.png" width="40" /> Creating a "set-aside" dataset</h2>
 </div>
 <br>
 You will often want to create a "set-aside" dataset to be used after creating your model. This is a good final step as this data will not have been exposed to the algorithm during the training process. This will reduce the chance of data leakage occuring prior to your final scoring of the model.  
