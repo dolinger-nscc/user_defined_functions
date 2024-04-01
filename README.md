@@ -5,7 +5,7 @@
 </div>
 <br>
 <div>
-	<h1><img src="img/question.png" width="35" /> How do I access my GitHub UDFs?</h1>
+	<h1><img src="img/question.png" width="35" /> How do I access my GitHub UDFs?<img src="img/bulb.png" width="35" /></h1>
 </div>
 <br>
 Explain here how you import the the .py file from your repo.  
