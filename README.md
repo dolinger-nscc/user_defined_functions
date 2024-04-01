@@ -8,7 +8,14 @@
 	<h1><img src="img/question.png" width="35" /> How do I keep my UDFs accessible??</h1>
 </div>
 <br>
-Explain here how you import the the .py file from your repo. 
+Explain here how you import the the .py file from your repo.  
+
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
+
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/<VIDEO_ID>)
+
+
 <div>
 
 
