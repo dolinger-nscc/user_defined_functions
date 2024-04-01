@@ -31,4 +31,5 @@ def gen_balanced_sample(data, series, random_state = np.random.seed(None)):
     return df, df[series].value_counts()
 
 def what_time():
+    '''Test function that returns the current system time in hours, minutes, and seconds.'''
     return datetime.now().strftime('%H:%M:%S')
