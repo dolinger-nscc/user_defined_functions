@@ -27,7 +27,6 @@ import udf
 ```
 
 <br>
-<br>
   
 Right click on the video preview and select "Open link in new tab"  
 [<img src="https://img.youtube.com/vi/48OBj6DtYSk/hqdefault.jpg" width="600"  /> ](https://www.youtube.com/embed/48OBj6DtYSk)
