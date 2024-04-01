@@ -5,7 +5,7 @@
 </div>
 <br>
 <div>
-	<h1><img src="img/question.png" width="40" /> How do I access my GitHub UDFs?<img src="img/bulb.png" width="40" /></h1>
+	<h1><img src="img/question.png" width="40" /> How do I access my GitHub UDFs? <img src="img/bulb.png" width="40" /></h1>
 </div>
 <br>
 You cannot import a model file (.py file) directly from GitHub into your Jupyter Notebook. Jupyter Notebooks also require the module with your user defined functions to be in the same directory as your notebook file (.ipynb file). The easiest way to work around this and ensure you have the latest version of your udf.py (name used for this exercise) is to download it each time you require the functions in your notebook. The following block of code copy down your udf.py file to the same directory as the notebook that is calling it. As long as you keep your udf.py updated in GitHub, you will get the most current copy each time as the file will overwrite any prior udf.py in the directory.  
