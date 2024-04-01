@@ -8,7 +8,9 @@
 	<h1><img src="img/question.png" width="35" /> How do I access my GitHub UDFs?<img src="img/bulb.png" width="35" /></h1>
 </div>
 <br>
-Explain here how you import the the .py file from your repo.  
+You cannot import a model file (.py file) directly from GitHub into your Jupyter Notebook. Jupyter Notebooks also require the module with your user defined functions to be in the same directory as your notebook file (.ipynb file). The easiest way to work around this and ensure you have the latest version of your udf.py (name used for this exercise) is to download it each time you require the functions in your notebook. The following block of code copy down your udf.py file to the same directory as the notebook that is calling it. As long as you keep your udf.py updated in GitHub, you will get the most current copy each time as the file will overwrite any prior udf.py in the directory.  
+
+**Note** Currently this block of code will copy down **my** udf.py file. Edit the url to point to yours. 
 
 ```python
 import requests
@@ -19,6 +21,8 @@ response = requests.get(url)
 with open('udf.py', 'w') as file:
     file.write(response.text)
 response.close()
+
+import udf
 ```
 
 
