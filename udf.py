@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from datetime import datetime
 
 def gen_unseen_pct(data, frac = 0.2, random_state = np.random.seed(None)):
     '''This function takes 3 arguments:
@@ -28,3 +29,6 @@ def gen_balanced_sample(data, series, random_state = np.random.seed(None)):
     samples = data[series].value_counts().min()
     df = data.groupby(series).apply(lambda x: x.sample(n=min(len(x), samples))).reset_index(drop=True)
     return df, df[series].value_counts()
+
+def what_time():
+    return datetime.now().strftime('%H:%M:%S')
