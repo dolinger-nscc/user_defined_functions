@@ -5,7 +5,7 @@
 </div>
 <br>
 <div>
-	<h1><img src="img/question.png" width="35" /> How do I keep my User Defined Functions (UDFs) accessible??</h1>
+	<h1><img src="img/question.png" width="35" /> How do I keep my UDFs accessible??</h1>
 </div>
 <br>
 Explain here how you import the the .py file from your repo. 
