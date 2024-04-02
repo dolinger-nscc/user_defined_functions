@@ -5,7 +5,7 @@
 </div>
 <br>
 <div>
-	<h1><img src="img/question.png" width="40" /> How do I access my GitHub UDFs? <img src="img/bulb.png" width="40" /></h1>
+	<h1><img src="img/question2.png" width="40" /> How do I access my GitHub UDFs? <img src="img/bulb2.png" width="40" /></h1>
 </div>
 <br>
 You cannot import a model file (.py file) directly from GitHub into your Jupyter Notebook. Jupyter Notebooks also require the module with your user defined functions to be in the same directory as your notebook file (.ipynb file). The easiest way to work around this and ensure you have the latest version of your udf.py (name used for this exercise) is to download it each time you require the functions in your notebook. The following block of code copy down your udf.py file to the same directory as the notebook that is calling it. As long as you keep your udf.py updated in GitHub, you will get the most current copy each time as the file will overwrite any prior udf.py in the directory.  
@@ -33,14 +33,14 @@ Right click on the video preview and select "Open link in new tab"
 
 
 <div>
-	<h1><img src="img/question.png" width="40" /> How do I reuse common code snippets?</h1>
+	<h1><img src="img/question2.png" width="40" /> How do I reuse common code snippets?</h1>
 </div>
 <br>
 The remainder of this repository illustrates the use of a .py file as a module for reusable code. This method was designed primarily for use with Jupyter Notebooks. Its design intent is to help students new to Data Science concepts practice their Python skills as well to implement consistent data wrangling within their workflows. The repository will consist of code snippets that utilize the udf.py file included.  
 
 Each function within the udf.py file will be explained below:  
 <div>
-	<h2><img src="img/bulb.png" width="40" /> Creating a "set-aside" dataset</h2>
+	<h2><img src="img/bulb2.png" width="40" /> Creating a "set-aside" dataset</h2>
 </div>
 <br>
 You will often want to create a "set-aside" dataset to be used after creating your model. This is a good final step as this data will not have been exposed to the algorithm during the training process. This will reduce the chance of data leakage occuring prior to your final scoring of the model.  
